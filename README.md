@@ -96,9 +96,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/salmanpaul/count.svg?"  />
-</div>
-
-###
