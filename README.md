@@ -1,6 +1,6 @@
 <h2 align="left">Hey there! 👋 I'm Salman Saeed Paul</h2> <h3 align="left">🚀 A Backend-Focused Full Stack Engineer based in the vibrant city of Lahore, Pakistan. I bring tech ideas to life with robust and scalable solutions that make an impact! 🌐</h3>
 
-<br>👨‍🎓 Graduated in Computer Science from PUCIT, I've journeyed through multiple roles that shaped my expertise:<br>💼 As an Intern at Systems Limited, I dived into the world of software development and project management, gaining valuable hands-on experience on Azure.<br>🔧 Junior Software Support Specialist at Nakisa — Troubleshooting complex client issues and providing tailored solutions for enterprise-level systems, I sharpened my problem-solving and support skills.<br>💻 Software Engineer at i2c Inc. — Enhanced global payment systems with API integrations, 3DS/VBV, Digital Wallets, and Mobile App Setups, delivering scalable solutions and collaborating with stakeholders like MasterCard, VISA, AMEX, and DISCOVER.<br>🚀 Backend-Focused Full Stack Engineer at Lula Commerce — Led microservice migration, implemented infrastructure monitoring solutions, and managed backend development team to craft distributed systems and drive innovation in cutting-edge e-commerce experiences.<br><br>I'm passionate about building systems that are as elegant as they are effective. I thrive on transforming challenges into solutions and pushing the boundaries of what's possible with code.<br><br>🔍 Always on the lookout for new opportunities to innovate and collaborate. Let's connect and create something amazing together! 🌟
+<br>👨‍🎓 Graduated in Computer Science from PUCIT<br>💼 An Intern at Systems Limited.<br>🔧 Junior Software Support Specialist at Nakisa<br>💻 Software Engineer at i2c Inc.<br>🚀 Backend-Focused Full Stack Engineer at Lula Commerce<br><br>I'm passionate about building systems that are as elegant as they are effective. I thrive on transforming challenges into solutions and pushing the boundaries of what's possible with code.<br><br>🔍 Always on the lookout for new opportunities to innovate and collaborate. Let's connect and create something amazing together!🌟
 
 
 ###
@@ -53,12 +53,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F56040&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/salmanpaul/salmanpaul/output/snake.svg" alt="Snake animation" />
 
 ###
 
