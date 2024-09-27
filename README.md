@@ -1,8 +1,16 @@
 <h2 align="left">Hey there! 👋 I'm Salman Saeed Paul</h2> <h3 align="left">🚀 A Backend-Focused Full Stack Engineer based in the vibrant city of Lahore, Pakistan. I bring tech ideas to life with robust and scalable solutions that make an impact! 🌐</h3>
 
-👨‍🎓 Graduated in Computer Science from <a href="https://pucit.edu.pk" target="_blank">PUCIT</a>
-💼 An Intern at Systems Limited.<br>🔧 Junior Software Support Specialist at Nakisa<br>💻 Software Engineer at i2c Inc.<br>🚀 Backend-Focused Full Stack Engineer at Lula Commerce<br><br>I'm passionate about building systems that are as elegant as they are effective. I thrive on transforming challenges into solutions and pushing the boundaries of what's possible with code.<br><br>🔍 Always on the lookout for new opportunities to innovate and collaborate. Let's connect and create something amazing together!
+<ul>
+  <li>👨‍🎓 Graduated in Computer Science from <a href="https://pucit.edu.pk" target="_blank">PUCIT</a></li>
+  <li>💼 Intern at <a href="https://www.systemsltd.com" target="_blank">Systems Limited</a></li>
+  <li>🔧 Junior Software Support Specialist at <a href="https://www.nakisa.com" target="_blank">Nakisa</a></li>
+  <li>💻 Software Engineer at <a href="https://www.i2cinc.com" target="_blank">i2c Inc.</a></li>
+  <li>🚀 Backend-Focused Full Stack Engineer at <a href="https://www.lulacommerce.com" target="_blank">Lula Commerce</a></li>
+</ul>
 
+<p>I'm passionate about building systems that are as elegant as they are effective. I thrive on transforming challenges into solutions and pushing the boundaries of what's possible with code.</p>
+
+<p>🔍 Always on the lookout for new opportunities to innovate and collaborate. Let's connect and create something amazing together!</p>
 
 ###
 
