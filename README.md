@@ -2,9 +2,9 @@
 
 <ul>
   <li>👨‍🎓 Graduated in Computer Science from <a href="https://pucit.edu.pk" target="_blank">PUCIT</a></li>
-  <li>💼 Intern at <a href="https://www.systemsltd.com" target="_blank">Systems Limited</a></li>
-  <li>🔧 Junior Software Support Specialist at <a href="https://www.nakisa.com" target="_blank">Nakisa</a></li>
-  <li>💻 Software Engineer at <a href="https://www.i2cinc.com" target="_blank">i2c Inc.</a></li>
+  <li>💼 Interned at <a href="https://www.systemsltd.com" target="_blank">Systems Limited</a></li>
+  <li>🔧 Former Junior Software Support Specialist at <a href="https://www.nakisa.com" target="_blank">Nakisa</a></li>
+  <li>💻 Former Software Engineer at <a href="https://www.i2cinc.com" target="_blank">i2c Inc.</a></li>
   <li>🚀 Backend-Focused Full Stack Engineer at <a href="https://www.lulacommerce.com" target="_blank">Lula Commerce</a></li>
 </ul>
 
