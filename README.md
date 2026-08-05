@@ -1,7 +1,7 @@
 <h2 align="left">Hey there! 👋 I'm Salman Saeed Paul</h2> <h3 align="left">🚀 A Backend-Focused Full Stack Engineer based in the vibrant city of Lahore, Pakistan. I bring tech ideas to life with robust and scalable solutions that make an impact! 🌐</h3>
 
 <ul>
-  <li>👨‍🎓 Graduated in Computer Science from <a href="https://pucit.edu.pk" target="_blank">FCIT</a></li>
+  <li>👨‍🎓 Graduated in Computer Science from <a href="https://pucit.edu.pk" target="_blank">PUCIT</a></li>
   <li>💼 Interned at <a href="https://www.systemsltd.com" target="_blank">Systems Limited</a></li>
   <li>🔧 Former Junior Software Support Specialist at <a href="https://www.nakisa.com" target="_blank">Nakisa</a></li>
   <li>💻 Former Software Engineer at <a href="https://www.i2cinc.com" target="_blank">i2c Inc.</a></li>
@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/salman-saeed-paul/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@salmanpal4917" target="_blank">
+  <a href="https://www.youtube.com/@salmansaeedpaul" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/salmansaeedpaul/" target="_blank">
